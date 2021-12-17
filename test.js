@@ -1,1 +1,1 @@
-alert("test");
+window.location = "test.html";
